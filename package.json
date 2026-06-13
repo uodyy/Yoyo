@@ -1,0 +1,13 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "debug": "^4.4.3",
+    "discord.js-selfbot-v13": "https://github.com/aiko-chan-ai/discord.js-selfbot-v13",
+    "express": "^5.2.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
